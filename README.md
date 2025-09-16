@@ -1,0 +1,2 @@
+# GurukulPublicSchool
+The school app
